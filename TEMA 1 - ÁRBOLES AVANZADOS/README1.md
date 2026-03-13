@@ -1,5 +1,4 @@
-# Estructura Organizacional
-# Problema: Modelar la jerarquía de una universidad mediante un árbol N-ario.
+# ARBOLES AVANZADOS
 
 ## 1. Definición: 
 Estructura de datos jerárquica donde cada nodo puede tener un número variable de hijos (desde 0 hasta N, donde N puede ser ilimitado). A diferencia de los árboles binarios, no hay límite en la cantidad de descendientes directos.
